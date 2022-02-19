@@ -1,0 +1,16 @@
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.csproj.AssemblyReference.cache
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.GeneratedMSBuildEditorConfig.editorconfig
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.AssemblyInfoInputs.cache
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.AssemblyInfo.cs
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.csproj.CoreCompileInputs.cache
+C:\RPG\RPG game\bin\Debug\net5.0\RPG game.exe
+C:\RPG\RPG game\bin\Debug\net5.0\RPG game.deps.json
+C:\RPG\RPG game\bin\Debug\net5.0\RPG game.runtimeconfig.json
+C:\RPG\RPG game\bin\Debug\net5.0\RPG game.runtimeconfig.dev.json
+C:\RPG\RPG game\bin\Debug\net5.0\RPG game.dll
+C:\RPG\RPG game\bin\Debug\net5.0\ref\RPG game.dll
+C:\RPG\RPG game\bin\Debug\net5.0\RPG game.pdb
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.dll
+C:\RPG\RPG game\obj\Debug\net5.0\ref\RPG game.dll
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.pdb
+C:\RPG\RPG game\obj\Debug\net5.0\RPG game.genruntimeconfig.cache
